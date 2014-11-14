@@ -18,21 +18,16 @@ Prerequisites:
     
 Installation
 
-	clone this repo somewhere on your disk
 
-		git clone https://github.com/AlainBarthelemy/miniserver.git
-	install node dependencies
-	
-		cd miniserver
-		npm install
+	git clone https://github.com/AlainBarthelemy/miniserver.git
+	cd miniserver
+	npm install
 
 
 
 ## Run
-	Once installed you just have to run
-	```sh
+
 	node server.js
-	```
 	
 ## Contributors
 
