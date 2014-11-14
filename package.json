@@ -1,0 +1,16 @@
+{
+  "name": "miniserver",
+  "version": "1.0.0",
+  "description": "a mini web server with websocket",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bonjour@hemisphere-project.com",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.0.3",
+    "http-server": "^0.7.3",
+    "socket.io": "^1.2.0"
+  }
+}
