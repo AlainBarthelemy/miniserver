@@ -8,21 +8,24 @@ A short description of the motivation behind the creation and maintenance of the
 
 ## Installation
 
+If your python binary is in a non-standard location or has a
+non-standard name, run the following instead:
+
+
 Prerequisites:
 
-	* node js
+	node 
     
 Installation
 
-	* clone this repo somewhere on your disk
-	```sh
-	git clone https://github.com/AlainBarthelemy/miniserver.git
-	```
-	* install node dependencies
-	```sh
-	cd miniserver
-	npm install
-	```
+	clone this repo somewhere on your disk
+
+		git clone https://github.com/AlainBarthelemy/miniserver.git
+	install node dependencies
+	
+		cd miniserver
+		npm install
+
 
 
 ## Run
