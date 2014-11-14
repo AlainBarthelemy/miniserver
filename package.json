@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "a mini web server with websocket",
   "main": "server.js",
+  "repository": "https://github.com/AlainBarthelemy/miniserver",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
