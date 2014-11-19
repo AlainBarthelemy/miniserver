@@ -2,7 +2,7 @@
 
 Prerequisites:
 
-	[node](http://nodejs.org/) 
+[node](http://nodejs.org/) 
     
 Installation
 
